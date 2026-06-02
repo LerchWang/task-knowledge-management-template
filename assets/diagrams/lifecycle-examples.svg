@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="680" viewBox="0 0 1240 680">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1A202C"/>
+    </marker>
+    <style>
+      .h1 { font: 700 28px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .title { font: 700 18px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .body { font: 15px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #2D3748; }
+      .small { font: 13px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #4A5568; }
+    </style>
+  </defs>
+  <rect width="1240" height="680" fill="#FFFFFF"/>
+  <text x="32" y="44" class="h1">典型内容的去向 v2</text>
+  <rect x="40" y="90" width="240" height="110" rx="10" fill="#EBF8FF" stroke="#2D3748" stroke-width="2"/>
+<text x="56" y="120" class="title">买打印纸</text>
+<text x="56" y="148" class="body">Inbox → Daily</text>
+<text x="56" y="170" class="body">完成后留当天</text>
+<text x="56" y="192" class="body">不归档</text>
+<rect x="310" y="90" width="240" height="110" rx="10" fill="#FFFAF0" stroke="#2D3748" stroke-width="2"/>
+<text x="326" y="120" class="title">周五 10 点面试</text>
+<text x="326" y="148" class="body">Daily/Project</text>
+<text x="326" y="170" class="body">另设系统提醒</text>
+<text x="326" y="192" class="body">可写复盘</text>
+<rect x="580" y="90" width="240" height="110" rx="10" fill="#F0FFF4" stroke="#2D3748" stroke-width="2"/>
+<text x="596" y="120" class="title">搭建同步方案</text>
+<text x="596" y="148" class="body">多步 + 交付</text>
+<text x="596" y="170" class="body">去 Projects</text>
+<text x="596" y="192" class="body">完成后 Archive</text>
+<rect x="850" y="90" width="240" height="110" rx="10" fill="#E6FFFA" stroke="#2D3748" stroke-width="2"/>
+<text x="866" y="120" class="title">年度执行系统目标</text>
+<text x="866" y="148" class="body">方向 + 指标</text>
+<text x="866" y="170" class="body">去 Goals</text>
+<text x="866" y="192" class="body">拆出 Projects</text>
+<rect x="40" y="250" width="240" height="110" rx="10" fill="#EBF4FF" stroke="#2D3748" stroke-width="2"/>
+<text x="56" y="280" class="title">每周清 Inbox</text>
+<text x="56" y="308" class="body">长期重复</text>
+<text x="56" y="330" class="body">去 Area 维护清单</text>
+<text x="56" y="352" class="body">Tasks 循环</text>
+<rect x="310" y="250" width="240" height="110" rx="10" fill="#FFF5F5" stroke="#2D3748" stroke-width="2"/>
+<text x="326" y="280" class="title">Tasks 教程文章</text>
+<text x="326" y="308" class="body">外部资料</text>
+<text x="326" y="330" class="body">去 Resources</text>
+<text x="326" y="352" class="body">写摘要</text>
+<rect x="580" y="250" width="240" height="110" rx="10" fill="#FDF2F8" stroke="#2D3748" stroke-width="2"/>
+<text x="596" y="280" class="title">计划总被插件打断</text>
+<text x="596" y="308" class="body">异常/经验</text>
+<text x="596" y="330" class="body">去 Reviews</text>
+<text x="596" y="352" class="body">提炼规则</text>
+<rect x="850" y="250" width="240" height="110" rx="10" fill="#FAF5FF" stroke="#2D3748" stroke-width="2"/>
+<text x="866" y="280" class="title">我偏好低摩擦系统</text>
+<text x="866" y="308" class="body">稳定偏好</text>
+<text x="866" y="330" class="body">提炼后</text>
+<text x="866" y="352" class="body">进 AI_Memory</text>
+<rect x="175" y="410" width="240" height="110" rx="10" fill="#FED7D7" stroke="#2D3748" stroke-width="2"/>
+<text x="191" y="440" class="title">过期链接</text>
+<text x="191" y="468" class="body">打不开</text>
+<text x="191" y="490" class="body">无摘要</text>
+<text x="191" y="512" class="body">删除</text>
+<rect x="445" y="410" width="240" height="110" rx="10" fill="#F0FFF4" stroke="#2D3748" stroke-width="2"/>
+<text x="461" y="440" class="title">家庭证件整理</text>
+<text x="461" y="468" class="body">多步 + 协作</text>
+<text x="461" y="490" class="body">去 Projects</text>
+<text x="461" y="512" class="body">规则回 Area</text>
+<rect x="715" y="410" width="240" height="110" rx="10" fill="#EBF4FF" stroke="#2D3748" stroke-width="2"/>
+<text x="731" y="440" class="title">健康长期维护</text>
+<text x="731" y="468" class="body">没有完成线</text>
+<text x="731" y="490" class="body">去 Area</text>
+<text x="731" y="512" class="body">项目另建</text>
+<text x="44" y="610" class="small">不是所有内容都要永久保存。琐碎任务完成后留在 Daily 或直接结束，就是合理生命周期。</text>
+</svg>

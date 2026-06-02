@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="620" viewBox="0 0 1240 620">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1A202C"/>
+    </marker>
+    <style>
+      .h1 { font: 700 28px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .title { font: 700 18px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .body { font: 15px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #2D3748; }
+      .small { font: 13px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #4A5568; }
+    </style>
+  </defs>
+  <rect width="1240" height="620" fill="#FFFFFF"/>
+  <text x="32" y="44" class="h1">20_Goals、30_Projects、40_Areas 如何协作</text>
+  <rect x="440" y="80" width="360" height="120" rx="10" fill="#E6FFFA" stroke="#2D3748" stroke-width="2"/>
+<text x="456" y="110" class="title">20_Goals：目标与计划层</text>
+<text x="456" y="138" class="body">回答：为什么做？做到什么程度？</text>
+<text x="456" y="160" class="body">放规划、计划、指标、约束</text>
+<text x="456" y="182" class="body">不放日常执行流水</text>
+<line x1="560" y1="205" x2="390" y2="290" stroke="#1A202C" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="680" y1="205" x2="850" y2="290" stroke="#1A202C" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="160" y="300" width="360" height="135" rx="10" fill="#F0FFF4" stroke="#2D3748" stroke-width="2"/>
+<text x="176" y="330" class="title">30_Projects：阶段交付层</text>
+<text x="176" y="358" class="body">回答：这次具体完成什么？</text>
+<text x="176" y="380" class="body">放任务清单、日志、决策、复盘</text>
+<text x="176" y="402" class="body">完成后进入 99_Archive</text>
+<rect x="720" y="300" width="360" height="135" rx="10" fill="#EBF4FF" stroke="#2D3748" stroke-width="2"/>
+<text x="736" y="330" class="title">40_Areas：长期维护层</text>
+<text x="736" y="358" class="body">回答：这个领域如何长期保持？</text>
+<text x="736" y="380" class="body">放原则、维护清单、项目索引</text>
+<text x="736" y="402" class="body">没有完成线，不归档</text>
+<line x1="340" y1="440" x2="520" y2="520" stroke="#1A202C" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="900" y1="440" x2="700" y2="520" stroke="#1A202C" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="480" y="505" width="280" height="80" rx="10" fill="#FFFAF0" stroke="#2D3748" stroke-width="2"/>
+<text x="496" y="535" class="title">10_Daily：今天执行</text>
+<text x="496" y="563" class="body">只拿下一步动作</text>
+<text x="496" y="585" class="body">完成后做晚间复盘</text>
+<text x="74" y="560" class="small">例：目标“建立低摩擦执行系统” → 项目“优化 Inbox 流程” → Area“个人执行系统”保存长期规则 → Daily 只执行今天下一步。</text>
+</svg>

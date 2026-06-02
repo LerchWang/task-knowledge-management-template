@@ -1,0 +1,16 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+*.sync-conflict-*
+*.tmp
+*.bak
+*.log
+__pycache__/
+*.pyc
+.venv/
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.zip

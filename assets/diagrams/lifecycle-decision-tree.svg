@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="700" viewBox="0 0 1240 700">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1A202C"/>
+    </marker>
+    <style>
+      .h1 { font: 700 28px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .title { font: 700 18px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #1A202C; }
+      .body { font: 15px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #2D3748; }
+      .small { font: 13px "Microsoft YaHei", "Noto Sans CJK SC", Arial, sans-serif; fill: #4A5568; }
+    </style>
+  </defs>
+  <rect width="1240" height="700" fill="#FFFFFF"/>
+  <text x="32" y="44" class="h1">Inbox 分流判断表 v2</text>
+  <rect x="40" y="90" width="230" height="110" rx="10" fill="#FED7D7" stroke="#2D3748" stroke-width="2"/>
+<text x="56" y="120" class="title">不值得保留</text>
+<text x="56" y="148" class="body">过期 / 重复</text>
+<text x="56" y="170" class="body">没有行动价值</text>
+<text x="56" y="192" class="body">结局：删除</text>
+<rect x="300" y="90" width="230" height="110" rx="10" fill="#FEEBC8" stroke="#2D3748" stroke-width="2"/>
+<text x="316" y="120" class="title">2 分钟内能做</text>
+<text x="316" y="148" class="body">立刻处理</text>
+<text x="316" y="170" class="body">必要时留 Daily</text>
+<text x="316" y="192" class="body">结局：结束</text>
+<rect x="560" y="90" width="230" height="110" rx="10" fill="#EBF8FF" stroke="#2D3748" stroke-width="2"/>
+<text x="576" y="120" class="title">今天要做</text>
+<text x="576" y="148" class="body">写进 Daily</text>
+<text x="576" y="170" class="body">最多 1-3 件</text>
+<text x="576" y="192" class="body">结局：当天留痕</text>
+<rect x="820" y="90" width="230" height="110" rx="10" fill="#FFFAF0" stroke="#2D3748" stroke-width="2"/>
+<text x="836" y="120" class="title">硬性时间</text>
+<text x="836" y="148" class="body">写任务上下文</text>
+<text x="836" y="170" class="body">另设系统提醒</text>
+<text x="836" y="192" class="body">结局：完成/复盘</text>
+<rect x="40" y="250" width="230" height="120" rx="10" fill="#E6FFFA" stroke="#2D3748" stroke-width="2"/>
+<text x="56" y="280" class="title">更大的目标</text>
+<text x="56" y="308" class="body">有方向/指标</text>
+<text x="56" y="330" class="body">跨度数周以上</text>
+<text x="56" y="352" class="body">去：20_Goals</text>
+<rect x="300" y="250" width="230" height="120" rx="10" fill="#F0FFF4" stroke="#2D3748" stroke-width="2"/>
+<text x="316" y="280" class="title">多步完成</text>
+<text x="316" y="308" class="body">有交付物</text>
+<text x="316" y="330" class="body">有完成标准</text>
+<text x="316" y="352" class="body">去：30_Projects</text>
+<rect x="560" y="250" width="230" height="120" rx="10" fill="#EBF4FF" stroke="#2D3748" stroke-width="2"/>
+<text x="576" y="280" class="title">长期维护</text>
+<text x="576" y="308" class="body">没有完成线</text>
+<text x="576" y="330" class="body">重复/责任/原则</text>
+<text x="576" y="352" class="body">去：40_Areas</text>
+<rect x="820" y="250" width="230" height="120" rx="10" fill="#FFF5F5" stroke="#2D3748" stroke-width="2"/>
+<text x="836" y="280" class="title">外部资料</text>
+<text x="836" y="308" class="body">文章/视频/教程</text>
+<text x="836" y="330" class="body">整理摘要</text>
+<text x="836" y="352" class="body">去：50_Resources</text>
+<rect x="170" y="430" width="230" height="120" rx="10" fill="#FDF2F8" stroke="#2D3748" stroke-width="2"/>
+<text x="186" y="460" class="title">经验/异常</text>
+<text x="186" y="488" class="body">发生了什么</text>
+<text x="186" y="510" class="body">原因是什么</text>
+<text x="186" y="532" class="body">去：60_Reviews</text>
+<rect x="430" y="430" width="230" height="120" rx="10" fill="#EDF2F7" stroke="#2D3748" stroke-width="2"/>
+<text x="446" y="460" class="title">全局观察</text>
+<text x="446" y="488" class="body">任务/目标/习惯</text>
+<text x="446" y="510" class="body">不是录入入口</text>
+<text x="446" y="532" class="body">看：70_Dashboards</text>
+<rect x="690" y="430" width="230" height="120" rx="10" fill="#FAF5FF" stroke="#2D3748" stroke-width="2"/>
+<text x="706" y="460" class="title">稳定背景</text>
+<text x="706" y="488" class="body">提炼后</text>
+<text x="706" y="510" class="body">AI 下次该知道</text>
+<text x="706" y="532" class="body">去：80_AI_Memory</text>
+<rect x="950" y="430" width="170" height="120" rx="10" fill="#F7FAFC" stroke="#2D3748" stroke-width="2"/>
+<text x="966" y="460" class="title">完成历史</text>
+<text x="966" y="488" class="body">项目结束</text>
+<text x="966" y="510" class="body">资料过期但留存</text>
+<text x="966" y="532" class="body">去：99_Archive</text>
+<text x="44" y="640" class="small">处理顺序：先删无价值，再做 2 分钟任务，再判断 Goal / Project / Area / Resource / Review / AI_Memory。</text>
+</svg>
