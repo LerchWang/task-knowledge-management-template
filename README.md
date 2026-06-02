@@ -32,6 +32,22 @@
 4. 从 `00_入口/本库使用说明.md` 开始。
 5. 每天只打开 `10_Daily/当天日期.md`、`00_Inbox/收件箱.md` 和 `70_Dashboards/任务总览.md`。
 
+## Agent Router 工作流
+
+当前模板主版本是 V2 Agent Router：
+
+- Obsidian 是数据底座。
+- Agent 负责捕获后的分类、规划、分解和自动连接建议。
+- 用户负责少量决策和最终执行。
+- Daily 和 Project 是执行主线，Area/Goal 主要做索引和约束。
+
+关键文档：
+
+- [Agent 工作流协议](docs/07-agent-workflow-protocol.md)
+- [Inbox Router 规则](docs/08-inbox-router.md)
+- [系统与使用说明](docs/09-system-and-usage.md)
+- `vault-template/70_Dashboards/Inbox处理台.md`
+
 ## 仓库结构
 
 ```text
