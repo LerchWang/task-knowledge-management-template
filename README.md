@@ -2,7 +2,7 @@
 
 一个以 Obsidian 为核心的中文个人任务管理、知识管理和 AI 长期记忆模板。
 
-这个仓库适合想要建立低摩擦执行系统的人：任务、项目、复盘、资料、长期领域和 AI 记忆都在同一个 Obsidian Vault 中协作，但每天只需要看 Daily Note。
+这个仓库适合想要建立低摩擦执行系统的人：任务、项目、复盘、资料、长期领域和 AI 记忆都在同一个 Obsidian Vault 中协作，但每天的默认入口只应是 Daily Note 和项目推进台。
 
 ## 核心思想
 
@@ -30,7 +30,7 @@
 2. 复制 `vault-template` 文件夹，改名成你的 Obsidian Vault。
 3. 用 Obsidian 打开这个文件夹。
 4. 从 `00_入口/本库使用说明.md` 开始。
-5. 每天只打开 `10_Daily/当天日期.md`、`00_Inbox/收件箱.md` 和 `70_Dashboards/任务总览.md`。
+5. 每天默认只打开 `10_Daily/当天日期.md` 和 `70_Dashboards/项目推进台.md`；有捕获需要处理时再打开 `70_Dashboards/Inbox处理台.md`。
 
 ## Agent Router 工作流
 
@@ -46,6 +46,8 @@
 - [Agent 工作流协议](docs/07-agent-workflow-protocol.md)
 - [Inbox Router 规则](docs/08-inbox-router.md)
 - [系统与使用说明](docs/09-system-and-usage.md)
+- [执行中心原则](docs/10-execution-center-principle.md)
+- `vault-template/70_Dashboards/项目推进台.md`
 - `vault-template/70_Dashboards/Inbox处理台.md`
 
 ## 仓库结构

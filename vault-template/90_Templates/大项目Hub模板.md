@@ -16,7 +16,6 @@
 ├── 06_版本记录.md
 ├── 10_沉淀
 │   ├── 结论沉淀.md
-│   ├── 分类原则.md
 │   └── 方法说明.md
 └── 子项目
     └── 00_子项目索引.md
@@ -25,6 +24,15 @@
 ## README.md 模板
 
 ```md
+---
+type: project
+status: active
+area:
+goal:
+next_action:
+review_cycle: weekly
+---
+
 # 项目名
 
 ## 项目定位
@@ -44,6 +52,10 @@
 active / waiting / paused / done
 
 ## 当前第一任务
+
+- [ ] 
+
+## 下一步
 
 - [ ] 
 
